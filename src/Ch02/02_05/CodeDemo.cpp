@@ -1,6 +1,6 @@
 // Learning C++ 
 // Exercise 02_05
-// Type inference with auto, by Eduardo Corpeño 
+// Type inference with auto, by Ahmad Farachi 
 
 #include <iostream>
 #include <typeinfo>

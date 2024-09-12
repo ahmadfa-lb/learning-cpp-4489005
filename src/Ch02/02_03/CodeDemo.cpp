@@ -1,14 +1,9 @@
 // Learning C++ 
 // Exercise 02_03
-// Using Variables, by Eduardo Corpeño 
-
+// Using Variables, by Ahmad Farachi
 #include <iostream>
 
-int a, b = 5; // single line comment
-
-/* Multi
-*  line
-*  comment */
+int a, b = 5;
 
 int main(){
     bool my_flag;

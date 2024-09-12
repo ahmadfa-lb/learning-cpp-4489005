@@ -1,6 +1,6 @@
 // Learning C++ 
 // Exercise 02_06
-// Preprocessor directives, by Eduardo Corpeño 
+// Preprocessor directives, by Ahmad Farachi 
 
 #include <iostream>
 #include <string>
@@ -15,7 +15,7 @@ int main(){
 #ifdef DEBUG
     std::cout << "[About to perform the addition]" << std::endl;
 #endif
-    large += small; // Shorthand for "large = large + small;"
+    large += small;
     std::cout << "The large integer is " << large << std::endl;
 
     std::cout << std::endl << std::endl;
