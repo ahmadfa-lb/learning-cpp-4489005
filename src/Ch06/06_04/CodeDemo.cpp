@@ -1,6 +1,6 @@
 // Learning C++ 
 // Challenge Solution 06_04
-// Upgrade to work with files, by Eduardo Corpeño 
+// Upgrade to work with files, by Ahmad Farachi 
 
 #include <iostream>
 #include <fstream>

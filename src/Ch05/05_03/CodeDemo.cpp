@@ -1,7 +1,6 @@
 // Learning C++ 
-// Challenge Solution 05_05
-// Create a Report Card Function, by Ahmad Farachi 
-
+// Exercise 05_03
+// Using Functions, by Ahmad Farachi 
 #include <iostream>
 #include <vector>
 #include "records.h"
@@ -17,7 +16,8 @@ int main(){
     std::cout << "Enter a student ID: " << std::flush;
     std::cin >> id;
 
-    SR.report_card(id);
+    std::string student_str = SR.get_student_name(id);
+    std::cout << "The GPA for " << student_str << " is " << SR.get_GPA(id) << std::endl;
     
     std::cout << std::endl << std::endl;
     return (0);
