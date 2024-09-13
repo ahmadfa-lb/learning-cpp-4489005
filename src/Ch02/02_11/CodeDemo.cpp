@@ -1,6 +1,6 @@
 // Learning C++ 
 // Exercise 02_11
-// Type Casting Examples, by Eduardo Corpeño 
+// Type Casting Examples, by Ahmad Farachi 
 
 #include <iostream>
 #include <cstdint>

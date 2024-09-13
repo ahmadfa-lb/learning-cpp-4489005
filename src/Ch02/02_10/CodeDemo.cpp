@@ -1,6 +1,6 @@
 // Learning C++ 
 // Exercise 02_10
-// Type Casting, by Eduardo Corpeño 
+// Type Casting, by Ahmad Farachi 
 
 #include <iostream>
 #include <cstdint>

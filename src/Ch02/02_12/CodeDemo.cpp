@@ -1,6 +1,6 @@
 // Learning C++ 
 // Exercise 02_12
-// Enumerations, by Eduardo Corpeño 
+// Enumerations, by Ahmad Farachi
 
 #include <iostream>
 #include <cstdint>

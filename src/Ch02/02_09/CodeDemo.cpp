@@ -1,6 +1,6 @@
 // Learning C++ 
 // Exercise 02_09
-// Strings, by Eduardo Corpeño 
+// Strings, by Ahmad Farachi 
 
 #include <iostream>
 #include <string>

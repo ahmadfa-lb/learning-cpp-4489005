@@ -1,6 +1,6 @@
 // Learning C++ 
 // Challenge Solution 02_14
-// Calculate an Average, by Eduardo Corpeño 
+// Calculate an Average, by Ahmad Farachi 
 
 #include <iostream>
 

@@ -1,6 +1,6 @@
 // Learning C++ 
 // Exercise 02_08
-// Arrays, by Eduardo Corpeño 
+// Arrays, by Ahmad Farachi 
 
 #include <iostream>
 
